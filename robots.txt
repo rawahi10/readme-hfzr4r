@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rawahi10.github.io/readme-hfzr4r/sitemap.xml
